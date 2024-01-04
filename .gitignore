@@ -39,3 +39,4 @@ tsconfig.tsbuildinfo
 
 # Jetbrains IDE
 .idea
+.vercel

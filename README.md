@@ -24,7 +24,7 @@ Built with [Next.js](https://github.com/vercel/next.js/), [Prisma](https://githu
 
 Check out the [self-hosting docs](https://support.rallly.co/self-hosting) for more information on running your own instance of Rallly.
 
-## Get started
+## Get started  ddd
 
 1. Clone the repository switch to the project directory
 
