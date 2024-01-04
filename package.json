@@ -22,7 +22,8 @@
     "lint": "turbo lint",
     "i18n:scan": "turbo i18n:scan",
     "lint:tsc": "turbo lint:tsc",
-    "release": "./scripts/create-release.sh"
+    "release": "./scripts/create-release.sh",
+    "postinstall": "prisma generate"
   },
   "prisma": {
     "seed": "yarn workspace @rallly/database db:seed"
